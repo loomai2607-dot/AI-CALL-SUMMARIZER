@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+torch
+whisper
+langgraph==0.0.41
+autogen @ git+https://github.com/microsoft/autogen.git
+python-dotenv
